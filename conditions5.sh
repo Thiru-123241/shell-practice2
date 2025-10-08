@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "enter any number"
 read Num
-if [ $Num is -gt 100 ]
+if [ $Num  -gt 100 ]
 then
    echo "your input number $Num is greaterthan 100"
 else
