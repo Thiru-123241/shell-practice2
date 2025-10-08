@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "enter any number'
+echo "enter any number"
 read Num
 if [ $Num is -gt 100 ]
 then
