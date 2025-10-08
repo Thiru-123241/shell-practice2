@@ -2,7 +2,7 @@
 
 Number=200
 
-if [ $Number -lt 100]
+if [ $Number -lt 100 ]
 then
    echo "given number $Number is lessthan 100"
 else
