@@ -1,6 +1,6 @@
 #!/bin/bash
 Name=Thirumalesh
 Age=28
-Company=Tech Mahindra
+Company=TechMahindra
 
 echo "$company: Tech Mahindra"
